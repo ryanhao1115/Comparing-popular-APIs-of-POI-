@@ -11,8 +11,8 @@ The goal of the project is to compare the effectiveness of different API data by
 
 
 We will work with these APIs:
-1. [Foursquare](https://developer.foursquare.com/places) - we have already come across this one
-2. [Yelp](https://www.yelp.com/developers/documentation/v3/get_started) - this API offers similar services as Foursquare.
+1.  [Yelp](https://www.yelp.com/developers/documentation/v3/get_started)- we have already come across this one
+2.  [Foursquare](https://developer.foursquare.com/places)- this API offers similar services as Yelp.
 3. (Stretch) [Google Places API](https://developers.google.com/places/web-service/intro) - this google api offers similar service as well.
 
 
